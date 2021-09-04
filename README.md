@@ -53,6 +53,7 @@ You can copy blocklists on your adblocker or others.
 | Evan Pratten's YouTube Ad Blocklist                               | [Link](https://raw.githubusercontent.com/Ewpratten/youtube_ad_blocklist/master/blocklist.txt) |
 | Fan Yang's Blocklist                                              | [Link](https://raw.githubusercontent.com/missdeer/blocklist/master/toblock.lst) |
 | Tiuxo                                                             | [Link](https://raw.githubusercontent.com/tiuxo/hosts/master/ads) |
+| BlkFckAds                                                         | [Link](https://raw.githubusercontent.com/MonyaTechnik/themtfilters/main/blkfckads/blkfckads.txt) |
 
 ### Others
 | Filter name                                                       | Filter file |
@@ -92,6 +93,8 @@ You can copy blocklists on your adblocker or others.
 | Steven Wung's Blocklist                                           | [Link](https://raw.githubusercontent.com/StevenWung/blocklist/master/childblock.hosts) |
 | Pegasus Blocklist                                                 | [Link](https://raw.githubusercontent.com/jjjxu/NSO_Pegasus_Blocklist/main/domains.txt) |
 | shady-hosts                                                       | [Link](https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts) |
+| BlkFckWtmrk                                                       | [Link](https://raw.githubusercontent.com/MonyaTechnik/themtfilters/main/blkfckwtmrk/blkfckwtmrk.txt) |
+| BlkFckOnnwds                                                      | [Link](https://raw.githubusercontent.com/MonyaTechnik/themtfilters/main/blkfckonnwds/blkfckonnwds.txt) |
 
 ### Tracking or telemetry
 | Filter name                                                       | Filter file |
@@ -111,3 +114,4 @@ You can copy blocklists on your adblocker or others.
 | Apple Telemetry Blocklist                                         | [Link](https://raw.githubusercontent.com/adversarialtools/apple-telemetry/master/blacklist) |
 | AdGuard CNAME Trackers                                            | [Link](https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt) |
 | minecraft-hosts                                                   | [Link](https://raw.githubusercontent.com/jamiemansfield/minecraft-hosts/master/lists/tracking.txt) |
+| BlkFckWbs                                                         | [Link](https://raw.githubusercontent.com/MonyaTechnik/themtfilters/main/blkfckwbs/blkfckwbs.txt) |
