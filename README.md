@@ -36,6 +36,11 @@ You can copy blocklists on your adblocker or others.
 | Metamask Phishing Blocklist                                       | [Link](https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt) |
 | orca.pet                                                          | [Link](https://orca.pet/notonmyshift/hosts.txt) |
 | URLHaus                                                           | [Link](https://urlhaus.abuse.ch/downloads/hostfile/) |
+| RPiList Coronavirus Malware Sites Blocklist                       | [Link](https://github.com/RPiList/specials/blob/master/Blocklisten/Corona-Blocklist?raw=true) |
+| RPiList Fake Science Blocklist                                    | [Link](https://github.com/RPiList/specials/raw/master/Blocklisten/Fake-Science) |
+| RPiList Phishing Angriffe Blocklist                               | [Link](https://github.com/RPiList/specials/blob/master/Blocklisten/Phishing-Angriffe?raw=true) |
+| RPiList Streaming Malware Blocklist                               | [Link](https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Streaming) |
+| RPiList Malware Blocklist                                         | [Link](https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware) |
 
 ### Ads blocking
 | Filter name                                                       | Filter file |
@@ -95,6 +100,18 @@ You can copy blocklists on your adblocker or others.
 | shady-hosts                                                       | [Link](https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts) |
 | BlkFckWtmrk                                                       | [Link](https://raw.githubusercontent.com/MonyaTechnik/themtfilters/main/blkfckwtmrk/blkfckwtmrk.txt) |
 | BlkFckOnnwds                                                      | [Link](https://raw.githubusercontent.com/MonyaTechnik/themtfilters/main/blkfckonnwds/blkfckonnwds.txt) |
+| RPiList Child Protection                                          | [Link](https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/child-protection) |
+| RPiList Crypto Bitcoin Miners Blocklist                           | [Link](https://github.com/RPiList/specials/raw/master/Blocklisten/crypto) |
+| RPiList Easylist                                                  | [Link](https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/easylist) |
+| RPiList Gambling Blocklist                                        | [Link](https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/gambling) |
+| RPiList Not Serious Blocklist                                     | [Link](https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/notserious) |
+| RPiList Block Porn 1                                              | [Link](https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock1) |
+| RPiList Block Porn 2                                              | [Link](https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock2) |
+| RPiList Block Porn 3                                              | [Link](https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock3) |
+| RPiList Block Porn 4                                              | [Link](https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock4) |
+| RPiList Proxies Blocklist                                         | [Link](https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/proxies) |
+| RPiList Samsung Blocklist                                         | [Link](https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/samsung) |
+| RPiList Spam Mail Blocklist                                       | [Link](https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/spam.mails) |
 
 ### Tracking or telemetry
 | Filter name                                                       | Filter file |
@@ -115,3 +132,5 @@ You can copy blocklists on your adblocker or others.
 | AdGuard CNAME Trackers                                            | [Link](https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt) |
 | minecraft-hosts                                                   | [Link](https://raw.githubusercontent.com/jamiemansfield/minecraft-hosts/master/lists/tracking.txt) |
 | BlkFckWbs                                                         | [Link](https://raw.githubusercontent.com/MonyaTechnik/themtfilters/main/blkfckwbs/blkfckwbs.txt) |
+| RPiList Microsoft Office telemetry blocklist                      | [Link](https://github.com/RPiList/specials/raw/master/Blocklisten/MS-Office-Telemetry) |
+| RPiList Microsoft Windows 10 telemetry blocklist                  | [Link](https://github.com/RPiList/specials/raw/master/Blocklisten/Win10Telemetry) |
