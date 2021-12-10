@@ -8,7 +8,7 @@ You can copy blocklists on your adblocker or others.
 | add.Dead                                                          | [Link](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts) | 
 | add.Risk                                                          | [Link](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts) |
 | add.Spam                                                          | [Link](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts) |
-| Badd Boyz Hosts                                                   | [Link](https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/PULL_REQUESTS/domains.txt) |
+| Badd Boyz Hosts                                                   | [Link](https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/domains) |
 | The Big List of Hacked Malware Web Sites                          | [Link](https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/.dev-tools/_strip_domains/domains.txt) |
 | Nginx Ultimate Bad Bot Blocker                                    | [Link](https://raw.githubusercontent.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/master/_generator_lists/bad-referrers.list) |
 | KADhosts Malware List                                             | [Link](https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt) |
