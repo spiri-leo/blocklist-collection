@@ -36,9 +36,9 @@ You can copy blocklists on your adblocker or others.
 | Metamask Phishing Blocklist                                       | [Link](https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt) |
 | orca.pet                                                          | [Link](https://orca.pet/notonmyshift/hosts.txt) |
 | URLHaus                                                           | [Link](https://urlhaus.abuse.ch/downloads/hostfile/) |
-| RPiList Coronavirus Malware Sites Blocklist                       | [Link](https://github.com/RPiList/specials/blob/master/Blocklisten/Corona-Blocklist?raw=true) |
-| RPiList Fake Science Blocklist                                    | [Link](https://github.com/RPiList/specials/raw/master/Blocklisten/Fake-Science) |
-| RPiList Phishing Angriffe Blocklist                               | [Link](https://github.com/RPiList/specials/blob/master/Blocklisten/Phishing-Angriffe?raw=true) |
+| RPiList Coronavirus Malware Sites Blocklist                       | [Link](https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Corona-Blocklist) |
+| RPiList Fake Science Blocklist                                    | [Link](https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Fake-Science) |
+| RPiList Phishing Angriffe Blocklist                               | [Link](https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe) |
 | RPiList Streaming Malware Blocklist                               | [Link](https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Streaming) |
 | RPiList Malware Blocklist                                         | [Link](https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware) |
 
@@ -58,15 +58,14 @@ You can copy blocklists on your adblocker or others.
 | Evan Pratten's YouTube Ad Blocklist                               | [Link](https://raw.githubusercontent.com/Ewpratten/youtube_ad_blocklist/master/blocklist.txt) |
 | Fan Yang's Blocklist                                              | [Link](https://raw.githubusercontent.com/missdeer/blocklist/master/toblock.lst) |
 | Tiuxo                                                             | [Link](https://raw.githubusercontent.com/tiuxo/hosts/master/ads) |
-| BlkFckAds                                                         | [Link](https://raw.githubusercontent.com/MonyaTechnik/themtfilters/main/blkfckads/blkfckads.txt) |
 
 ### Others
 | Filter name                                                       | Filter file |
 | ----------------------------------------------------------------- | ----------- |
-| Chad Mayfield's Pi-Hole Porn Blocklist                            | [Link](https://github.com/chadmayfield/my-pihole-blocklists/blob/master/lists/pi_blocklist_porn_all.list?raw=true) |
-| Pi-Hole Facebook Blocklist                                        | [Link](https://github.com/imkarthikk/pihole-facebook/raw/master/pihole-facebook.txt) |
-| Pi-Hole WhatsApp Blocklist                                        | [Link](https://github.com/imkarthikk/pihole-facebook/raw/master/pihole-whatsapp.txt) |
-| Hakim's Pi-Hole Blocklist                                         | [Link](https://github.com/mhhakim/pihole-blocklist/blob/master/list.txt?raw=true) |
+| Chad Mayfield's Pi-Hole Porn Blocklist                            | [Link](https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_all.list) |
+| Pi-Hole Facebook Blocklist                                        | [Link](https://raw.githubusercontent.com/imkarthikk/pihole-facebook/master/pihole-facebook.txt) |
+| Pi-Hole WhatsApp Blocklist                                        | [Link](https://raw.githubusercontent.com/imkarthikk/pihole-facebook/master/pihole-whatsapp.txt) |
+| Hakim's Pi-Hole Blocklist                                         | [Link](https://raw.githubusercontent.com/mhhakim/pihole-blocklist/master/list.txt) |
 | Hakim's Pi-Hole Porn Blocklist                                    | [Link](https://raw.githubusercontent.com/mhhakim/pihole-blocklist/master/list.txt) |
 | Developerdan's AMP Blocklist                                      | [Link](https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt) |
 | Developerdan's Dating Services Blocklist                          | [Link](https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt) |
@@ -90,7 +89,7 @@ You can copy blocklists on your adblocker or others.
 | Pornaway Blocklist Sites                                          | [Link](https://raw.githubusercontent.com/mhxion/pornaway/master/hosts/porn_sites.txt) |
 | Pornaway Blocklist Safe Ads                                       | [Link](https://raw.githubusercontent.com/mhxion/pornaway/master/hosts/safe_ads.txt) |
 | DurableNapkin's Scam Blocklist                                    | [Link](https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt) |
-| Emil Stahl's Blocklist                                            | [Link](https://github.com/emilstahl/blocklist/raw/master/block.csv) |
+| Emil Stahl's Blocklist                                            | [Link](https://raw.githubusercontent.com/emilstahl/blocklist/master/block.csv) |
 | Kevin Le's Windows Telemetry Blocklist                            | [Link](https://raw.githubusercontent.com/kevinle-1/Windows-Telemetry-Blocklist/master/windowsblock.txt) |
 | Umucub's Blocklist                                                | [Link](https://raw.githubusercontent.com/umucub/blocklist/master/blocklist.txt) |
 | Umucub's Twikasu Blocklist                                        | [Link](https://raw.githubusercontent.com/umucub/blocklist/master/twikasu.txt) |
@@ -98,10 +97,8 @@ You can copy blocklists on your adblocker or others.
 | Steven Wung's Blocklist                                           | [Link](https://raw.githubusercontent.com/StevenWung/blocklist/master/childblock.hosts) |
 | Pegasus Blocklist                                                 | [Link](https://raw.githubusercontent.com/jjjxu/NSO_Pegasus_Blocklist/main/domains.txt) |
 | shady-hosts                                                       | [Link](https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts) |
-| BlkFckWtmrk                                                       | [Link](https://raw.githubusercontent.com/MonyaTechnik/themtfilters/main/blkfckwtmrk/blkfckwtmrk.txt) |
-| BlkFckOnnwds                                                      | [Link](https://raw.githubusercontent.com/MonyaTechnik/themtfilters/main/blkfckonnwds/blkfckonnwds.txt) |
 | RPiList Child Protection                                          | [Link](https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/child-protection) |
-| RPiList Crypto Bitcoin Miners Blocklist                           | [Link](https://github.com/RPiList/specials/raw/master/Blocklisten/crypto) |
+| RPiList Crypto Bitcoin Miners Blocklist                           | [Link](https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/crypto) |
 | RPiList Easylist                                                  | [Link](https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/easylist) |
 | RPiList Gambling Blocklist                                        | [Link](https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/gambling) |
 | RPiList Not Serious Blocklist                                     | [Link](https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/notserious) |
@@ -121,16 +118,15 @@ You can copy blocklists on your adblocker or others.
 | WindowsSpyBlocker Hosts                                           | [Link](https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt) |
 | Developerdan's Blocklist                                          | [Link](https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt) |
 | W3C Annual Blocklist Top Ads and Trackers                         | [Link](https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/6b8c2411f22dda68b0b41757aeda10e50717a802/TOP_EU_US_Ads_Trackers_HOST) |
-| W3C Annual Blocklist Top Ads and Tracker for ABP                  | [Link](https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/raw/master/TOP_EU_US_Ads_Trackers_ABP) |
+| W3C Annual Blocklist Top Ads and Tracker for ABP                  | [Link](https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/6b8c2411f22dda68b0b41757aeda10e50717a802/TOP_EU_US_Ads_Trackers_ABP) |
 | Perflyst's Blocklist Pi-Hole Android Trackers                     | [Link](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt) |
 | Perflyst's Blocklist Pi-Hole SmartTV Trackers                     | [Link](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt) |
 | Perflyst's Blocklist Pi-Hole Amazon Fire TV Trackers              | [Link](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt) |
 | EasyPrivacy                                                       | [Link](https://easylist.to/easylist/easyprivacy.txt) |
-| NoTracking                                                        | [Link](https://github.com/notracking/hosts-blocklists/blob/master/domains.txt?raw=true) |
-| NoTracking Hostnames                                              | [Link](https://github.com/notracking/hosts-blocklists/blob/master/hostnames.txt?raw=true) |
+| NoTracking                                                        | [Link](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt) |
+| NoTracking Hostnames                                              | [Link](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt) |
 | Apple Telemetry Blocklist                                         | [Link](https://raw.githubusercontent.com/adversarialtools/apple-telemetry/master/blacklist) |
 | AdGuard CNAME Trackers                                            | [Link](https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt) |
 | minecraft-hosts                                                   | [Link](https://raw.githubusercontent.com/jamiemansfield/minecraft-hosts/master/lists/tracking.txt) |
-| BlkFckWbs                                                         | [Link](https://raw.githubusercontent.com/MonyaTechnik/themtfilters/main/blkfckwbs/blkfckwbs.txt) |
-| RPiList Microsoft Office telemetry blocklist                      | [Link](https://github.com/RPiList/specials/raw/master/Blocklisten/MS-Office-Telemetry) |
-| RPiList Microsoft Windows 10 telemetry blocklist                  | [Link](https://github.com/RPiList/specials/raw/master/Blocklisten/Win10Telemetry) |
+| RPiList Microsoft Office telemetry blocklist                      | [Link](https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/MS-Office-Telemetry) |
+| RPiList Microsoft Windows 10 telemetry blocklist                  | [Link](https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Win10Telemetry) |
